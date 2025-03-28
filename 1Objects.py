@@ -3,7 +3,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 import os
 
-xml_folder = "../Annotations"
+xml_folder = input("XML Folder Path: ")
 
 xml_files = []
 
