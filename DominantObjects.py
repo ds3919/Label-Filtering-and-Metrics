@@ -4,7 +4,7 @@ import pandas as pd
 import xml.etree.ElementTree as ET
 from collections import Counter
 
-xml_folder = "../Annotations"
+xml_folder = input("XML Folder Path: ")
 
 data = []  # List to store extracted data
 
