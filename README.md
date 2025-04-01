@@ -1,3 +1,5 @@
+This repository contains scripts used for "Analyzing the Accuracy of Object Recognition Models on Non-Photorealistic Images".
+
 # Label Filtering and Metrics
 ### Filtering XMLS metadata
 Filter images from an image dataset based on a set of criteria based on image labels.
